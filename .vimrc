@@ -1,6 +1,6 @@
 "------------------------Base Configure------------------------------
 " Showing line numbers and length
-set tw=79
+"set tw=79
 set wrap
 set fo-=t
 set encoding=utf-8
